@@ -8,8 +8,7 @@ This approach is particularly effective in scenarios where data for each class i
 The implementation utilizes **PyTorch Lightning** and the **Labelled Faces in the Wild (LFW-a)** dataset, focusing on the core concepts  
 of **similarity learning** and **feature extraction**.  
 
-
-
+&nbsp;  
 ### **Objectives**
 
 - Implement a **Siamese Neural Network** for **one-shot learning** using PyTorch.
@@ -18,8 +17,7 @@ of **similarity learning** and **feature extraction**.
 - Evaluate the network’s performance using metrics such as accuracy, loss, and convergence trends.
 - Analyze and compare different frameworks to identify trade-offs in terms of performance and usability.
 
-
-
+&nbsp;  
 ### **Dataset Analysis**
 
 **[Labeled Faces in the Wild (LFW-a)](https://vis-www.cs.umass.edu/lfw/index.html)**
