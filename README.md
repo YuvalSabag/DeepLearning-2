@@ -26,7 +26,7 @@ of **similarity learning** and **feature extraction**.
   - **Data split**:
     - **Training**: 1,760 pairs (1,100 identical, 660 non-identical).
     - **Validation**: 20% the training set (440 pairs).
-    - **Test***: 1,000 pairs (500 identical, 500 non-identical).
+    - **Test**: 1,000 pairs (500 identical, 500 non-identical).
    
 
 
