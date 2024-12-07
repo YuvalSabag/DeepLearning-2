@@ -1,2 +1,2 @@
-# DeepLearning-2
-One-shot Siamese Neural Network
+# Facial Recognition Using One-shot Siamese Neural Network
+
